@@ -1,0 +1,19 @@
+{
+  "name": "css-tricks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "ppt": "reveal-md ./ppt.md --theme night --highlight-theme tokyo-night-dark --exts gif"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/booltcher/css-tricks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/booltcher/css-tricks/issues"
+  },
+  "homepage": "https://github.com/booltcher/css-tricks#readme"
+}
